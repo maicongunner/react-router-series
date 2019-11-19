@@ -1,0 +1,30 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "name": "How I met your mother 21",
+      "status": "watching",
+      "genre": "Comédia",
+      "comments": "Muito bom 1"
+    },
+    {
+      "id": 3,
+      "name": "Breaking Bad",
+      "status": "watching",
+      "genre": "Comédia",
+      "comments": "Say My Name - melhor cena 2"
+    },
+    {
+      "id": 4,
+      "name": "Better Call Saul",
+      "status": "toWatch",
+      "genre": "Comédia",
+      "comments": "Galera fala bem"
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
